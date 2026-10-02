@@ -1,7 +1,7 @@
 {
  "site": "Sandysup",
  "site_url": "https://nbraga8604.github.io",
- "generated_at": "2026-10-02T18:31:32Z",
+ "generated_at": "2026-10-02T19:09:45Z",
  "notes": "Public videos only. Durations in seconds. Filter on length_bucket (short <=60s, medium <=20m, long <=2h, extra-long >2h) and attributes.",
  "channels": [
   {
@@ -10,14 +10,15 @@
    "slug": "sand",
    "youtube_url": "https://www.youtube.com/@AsmrSandysup",
    "page_url": "https://nbraga8604.github.io/sand/",
-   "about": "AsmrSandysup is a kinetic sand ASMR channel. Every video is real physical sand, cut, pressed and crumbled by hand on camera, with the natural crunch recorded up close. No talking, no music over the sounds, no AI-generated footage. Good for winding down, background focus, or anyone who finds oddly satisfying videos calming.",
+   "about": "AsmrSandysup films real kinetic sand being cut, sliced and crushed by hand, recorded close up so you hear the natural crunch. There is no talking and no background music. Videos range from short clips to longer sessions, for winding down, falling asleep or background focus.",
    "keywords": [
-    "kinetic sand",
-    "sand cutting",
-    "ASMR",
+    "kinetic sand ASMR",
+    "sand cutting ASMR",
+    "no talking ASMR",
     "oddly satisfying",
-    "no talking",
-    "relaxing",
+    "crunchy sand sounds",
+    "rainbow kinetic sand",
+    "ASMR for sleep",
     "real sand"
    ],
    "video_count": 5,
@@ -128,15 +129,16 @@
    "slug": "rain",
    "youtube_url": "https://www.youtube.com/@Relaxtion_Express_Network",
    "page_url": "https://nbraga8604.github.io/rain/",
-   "about": "Long, uninterrupted rain and ambient soundscapes for sleeping, studying and relaxing, in lengths from one to several hours.",
+   "about": "Relaxtion Express Network posts one-hour rain soundscapes for sleeping, studying and relaxing: rain on a window, a glass roof, a covered porch, a lakeside boathouse and a jungle treehouse at night. The long videos are rain only, with no music and no talking, so they can play in the background all night.",
    "keywords": [
-    "rain sounds",
+    "rain sounds for sleep",
+    "1 hour rain sounds",
+    "rain sounds no music",
+    "rain on window",
+    "rain on roof",
+    "night rain ambience",
     "sleep sounds",
-    "ambient",
-    "white noise",
-    "study",
-    "relaxation",
-    "long video"
+    "study ambience"
    ],
    "video_count": 11,
    "videos": [
